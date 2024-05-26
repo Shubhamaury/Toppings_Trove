@@ -1,2 +1,2 @@
 # Toppings_Trove
-Responsive Pizza Restaurant Website
+Responsive Pizza Ordering Website
